@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Lab 01 - Calc Omelko</string>
+    <string name="textviewA">A:</string>
+    <string name="textviewB">B:</string>
+    <string name="buttonAdd">ADD</string>
+    <string name="buttonMultiply">MULTIPLY</string>
+    <string name="buttonSubtract">SUBTRACT</string>
+    <string name="buttonDivide">DIVIDE</string>
+    <string name="buttonPower">POWER</string>
+    <string name="buttonSinA">SIN A</string>
+    <string name="buttonCosA">COS A</string>
+    <string name="buttonTgA">TG A</string>
+    <string name="buttonCtgA">CTG A</string>
+    <string name="buttonPi">PI</string>
+    <string name="buttonSqrt">SQRT A</string>
+    <string name="checkBox">DEG</string>
+    <string name="textViewA">A:</string>
+    <string name="textViewB">B:</string>
+    <string name="textViewResult">Result:</string>
+    <string name="textError">Parameter is not supported!</string>
+</resources>
